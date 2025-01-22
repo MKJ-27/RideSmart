@@ -1,0 +1,6 @@
+
+/frontend/my-app/node_modules
+*.pyc
+/frontend/.expo
+/frontend/my-app/.expo
+frontend/my-app/.watchmanconfig

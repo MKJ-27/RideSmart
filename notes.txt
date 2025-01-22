@@ -1,0 +1,63 @@
+## Connect to db with it's path else a new one will be intialized
+## Blueprints gives endpoints a unique name so it can be run from another file and reused
+## to connect python db with react native , need to run a server
+
+
+
+
+careem -
+
+okay button for malls
+//android.view.ViewGroup[@resource-id="com.careem.acma:id/geo_fence_dialog_ok_button"]
+new UiSelector().resourceId("com.careem.acma:id/geo_fence_dialog_ok_button")
+//android.widget.Button
+//android.view.ViewGroup[@resource-id="com.careem.acma:id/geo_fence_dialog_ok_button"]/android.view.View
+
+
+    wait_for_element_and_click(driver, By.XPATH,"//android.view.ViewGroup[@resource-id='com.careem.acma:id/geo_fence_dialog_ok_button']/android.view.View")
+
+
+
+bolt -
+
+
+//android.widget.Button[@resource-id="ee.mtakso.client:id/confirm_button"]
+wait_for_element_and_click(driver_bolt,By.XPATH,"//android.widget.Button[@resource-id='ee.mtakso.client:id/confirm_button']")
+
+uber- ++
+
+jeeny - ++
+
+
+
+tests
+
+{
+  "pick_up": "qurtubah",
+  "destination": "park avenue",
+  "user_id": 1
+}
+
+{
+  "pick_up": "qurtubah",
+  "destination": "KAFD",
+  "user_id": 1
+
+}
+{
+  "pick_up": "qurtubah",
+  "destination": "Airport",
+  "user_id": 1
+}
+
+{
+  "pick_up": "qurtubah",
+  "destination": "terminal 5",
+  "user_id": 1
+}
+
+
+
+
+
+
