@@ -1,4 +1,4 @@
-"""server/endpoints.py"""
+"""backend/app.py"""
 
 from flask import Flask
 from db.db import initialize_db

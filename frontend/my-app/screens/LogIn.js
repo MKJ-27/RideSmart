@@ -24,7 +24,7 @@ const LogIn = () => {
     }
 
     try {
-      const response = await fetch('http://10.0.3.2:5001/db/login', {
+      const response = await fetch('https://ridesmart-q66b.onrender.com/db/login', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ email, password }),
