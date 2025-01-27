@@ -59,7 +59,7 @@ export const Gap = {
   gap_sm: 10,
   gap_md: 16,
   gap_lg: 24,
-  gap_xl: 15,
+  gap_xl: 35,
   gap_2xl: 40,
   gap_3xl: 48,
   gap_4xl: 60,
